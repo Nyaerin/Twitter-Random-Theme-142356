@@ -1,0 +1,14 @@
+@-moz-document domain("twitter.com") {
+.gt2-legacy-profile-nav-left > img,
+.gt2-toggle-navbar-dropdown > img {
+    border-radius: 5px!important;
+}
+nav[aria-label="Footer"],
+div[class="css-1dbjc4n r-1niwhzg r-18bvks7 r-1867qdf r-1phboty r-1yadl64 r-1cad53l r-1udh08x"] {
+    visibility: hidden;
+    display: none;
+}
+div[class="css-1dbjc4n r-yfoy6g r-18bvks7 r-1867qdf r-1phboty r-rs99b7 r-1cad53l r-1udh08x"] {
+    border: 5px solid #006effad!important;
+}
+}
